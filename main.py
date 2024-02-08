@@ -5,7 +5,7 @@ def main():
     booking_system = BookingSystem(
         dbname="booking_database",
         user="postgres",
-        password="sidd!2004"
+        password="" --put your own password here
     )
 
     # Connect to the database
